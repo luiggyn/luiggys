@@ -1,34 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,No manches frida 2 tvg-logo = ¨https://www.google.com/search?q=no+manches+frida+2&rlz=1C1CHBF_esEC910EC910&sxsrf=ALeKk00_1kh5QEwrg4gQFaTCckYefBpY5A:1603997201158&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiL5JSbu9rsAhWDq1kKHfyGDUoQ_AUoAnoECCUQBA&biw=1366&bih=625#imgrc=V6tohBHoodSOEM¨
+#EXTINF:0 group-title="peliculas" tvg-logo=¨https://image.tmdb.org/t/p/w1280/rG7rDoTe1ZEa936eonDCkV76nkx.jpg¨ , No manches frida 2
 https://st20.streamsb.net/hls/tysxfkan3g66j6cdabibrsiihmkvhgns4cb37yjyo2fafa35s7qe7j5fqrfa/index-v1-a1.m3u8
-#EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/10/pacto-de-fuga-1.jpg", Pacto de Fuga | REGIOFLIX
-https://s1.zplayer.live/hls/,5fxct6d2wsnufvsa6k7u7ag6wpp33aw3cnm3tvdlhmng6fgfabbmdtzav2eq,.urlset/master.m3u
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/04/sin-escape.jpg", Sin Escape | REGIOFLIX
-https://cheetah.jawcloud.co/hls/baxpup2cmrts7n2gmkfooqpwi4y576ao3x4a7ekcmdao67b4zhkkl6yxcqtq/index-v1-a1.m3u8
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto | REGIOFLIX
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales | REGIOFLIX
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno | REGIOFLIX
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/04/gretel-hansel.jpg", Gretel & Hansel: Un siniestro cuento de hadas | REGIOFLIX
-http://regioflix.club/REGIO2020/021020po/Gretel.and.hansel.2020.1080p-dual-lat-srregio.net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/09/mulan.jpg", Mulan 2020 | REGIOFLIX
-http://regioflix.club/REGIO2020/021020po/Mulan.2020.1080p-srregio.net.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/08/fearless.jpg", Fearless | REGIOFLIX
-http://regioflix.club/REGIO2020/021020po/Fearless.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Proyecto_Power-232352967-large.jpg", Puro Poder | REGIOFLIX
 http://regioflix.club/REGIO2020/021020po/Project.power.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/474x/40/17/cb/4017cb6d420dbecbec14e8986d2e32db.jpg", Terror en lo Profundo 2 | REGIOFLIX
@@ -263,14 +235,7 @@ https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | REGIOFLIX  
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool | REGIOFLIX  
-https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | REGIOFLIX  
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | REGIOFLIX  
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | REGIOFLIX  
-https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTIN
 
 
 
