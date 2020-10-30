@@ -1,11 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1 ,Vengadores juego final tvg-logo=¨https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F052%2F759%2Fvengadores-endgame-1.jpg&nuevoancho=690&medio=abc¨
-https://6rf7dt.cfeucdn.com/secip/95532/WkFb7sYWLLm1tUVYmzR3-g/OC4yNDIuMjIzLjE2MQ==/1604026800/hls-vod-s10/flv/api/files/videos/2019/07/28/15643013305dydk
 #EXTINF:-1 ,No manches frida 2 tvg-logo = ¨https://www.google.com/search?q=no+manches+frida+2&rlz=1C1CHBF_esEC910EC910&sxsrf=ALeKk00_1kh5QEwrg4gQFaTCckYefBpY5A:1603997201158&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiL5JSbu9rsAhWDq1kKHfyGDUoQ_AUoAnoECCUQBA&biw=1366&bih=625#imgrc=V6tohBHoodSOEM¨
-3g66j6cdabibrsiihmkvhgns4cb37yjyo2fafa35s7qmxt5fqrfa/seg-5-v1-a1.ts
+https://st20.streamsb.net/hls/tysxfkan3g66j6cdabibrsiihmkvhgns4cb37yjyo2fafa35s7qe7j5fqrfa/index-v1-a1.m3u8
 #EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/10/pacto-de-fuga-1.jpg", Pacto de Fuga | REGIOFLIX
-https://s1.zplayer.live/hls/,5fxct6d2wsnufvsa6k7u7ag6wpp33aw3cnm3tvdlhmng6fgfabbmdtzav2eq,.urlset/master.m3u8
+https://s1.zplayer.live/hls/,5fxct6d2wsnufvsa6k7u7ag6wpp33aw3cnm3tvdlhmng6fgfabbmdtzav2eq,.urlset/master.m3u
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante | REGIOFLIX
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
 #EXTINF:0 group-title="peliculas" tvg-logo="https://elifilms.net/wp-content/uploads/2020/04/sin-escape.jpg", Sin Escape | REGIOFLIX
